@@ -1,4 +1,4 @@
-GaussJordan-Java
+java-gaussjordan
 ================
 
 Java program for running a Gauss-Jordan Elimination on a matrix
